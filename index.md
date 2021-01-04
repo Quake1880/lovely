@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+## _the lovely server_
 
-You can use the [editor on GitHub](https://github.com/Quake1880/lovely/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi there, thanks for stopping by! _the lovely server_ is a Minecraft SMP owned by Quake1880.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How to join:
 
-### Markdown
+If you're keen to join us:
+1. [Fill out the application form](https://forms.gle/7huhYQ41hSzXaXMx5) (it's pretty simple).
+2. [Join our Discord server](https://discord.gg/XWY4KC6).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Rules:
 
-```markdown
-Syntax highlighted code block
+The first four items are our key rules. The rest are a combination of guidelines and rules put in place for everyone's benefit.
 
-# Header 1
-## Header 2
-### Header 3
+1. **Be mature**. There is a 13 years minimum age on this Minecraft server due to Discord ToS, let's keep it that way.
 
-- Bulleted
-- List
+2. **Be respectful**. Everyone is learning! Have fun along the way.
 
-1. Numbered
-2. List
+3. **Be considerate**. Maybe fix up a creeper hole or leave a gift for a friend.
 
-**Bold** and _Italic_ and `Code` text
+4. **No Griefing, Stealing, Cheating etc**. If you're not sure, ask someone!
 
-[Link](url) and ![Image](src)
-```
+5. No NSFW content is to be shown, directly or indirectly, to any part of the community.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+6. No advertisement or promotion of products, services, objects or communities outside of the community without staff permission.
 
-### Jekyll Themes
+7. Do not try and evade any actions taken by staff.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Quake1880/lovely/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+8. Set your nickname to your IGN for everyone's benefit :D
 
-### Support or Contact
+9. Do not spam or flood any part of the community.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+10. Do not sabotage any part of the community.
+
+11. Do not post links to compromising sites.
+
+12. Do not attempt to scam other members, either in real life or in-game.
+
+13. Do not discriminate a user or group based on their age, race, sex etc.
+
+14. Do not discuss political topics in any area of the public community.
+
+15. Do not attempt to sabotage the physical server.
+
+16. No humour for the purpose of being offensive.
+
+17. Please do not ask the staff for items or services unless under circumstances that do not occur intentionally in survival mode. Thanks :)
+
+18. Please refrain from pinging large numbers of people.
+
+19. Please do not ask for staff positions. I will advertise positions to everyone when I’m looking for staff.
+
+20. All members must be aged 13 or older.
+
+21. You are responsible for the actions of any user on your account! Share your account wisely.
